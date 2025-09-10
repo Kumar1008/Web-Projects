@@ -7,7 +7,7 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open index-2.html",
+            "name": "Open index.html",
             "file": "d:\\Web Projects\\QeutoLifts\\index-2.html"
         }
     ]

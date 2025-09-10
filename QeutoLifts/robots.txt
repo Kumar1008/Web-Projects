@@ -1,0 +1,6 @@
+# robots.txt for Qeuto Lifts
+User-agent: *
+Disallow: https://qeutolifts-new.netlify.app/
+
+# Link to XML sitemap
+Sitemap: https://qeutolifts.com/sitemap.xml
